@@ -1,0 +1,18 @@
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+Criar um novo repositório local
+$ git init
+Adicionar os arquivos
+$ git add .
+Informando ao sistema que esta sendo gerado uma versao daquela alteracao do arquivo
+$ git commit -m "mensagem"
+Mostrar o status 
+$ git status
+Enviar as alteracoes para o repositorio do local para o repositorio remoto
+$ git push origin nome_branch
+Mostrar o log do commit
+$ git log
+Criar uma nova branch
+$ git branch nome_branch
+Trocar de branch
+$ git checkout nome_branch
