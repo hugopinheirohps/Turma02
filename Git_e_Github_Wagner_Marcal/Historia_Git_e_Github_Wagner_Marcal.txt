@@ -4,7 +4,7 @@ Ele desenvolveu o Git após ter ficado insatisfeito com uma mudança de licença
 Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux. E então surgiu o Git.
 
 b. Quem atualmente é o dono do Github e por quê?
-Thomas Dohmke, pois o CEO anterior deixou seu cargo para asssumir uma posição na Microsoft.
+Está sob posse da Microsoft, com o Thomas Dohmke ocupando a atual cadeira de CEO, pois o CEO anterior deixou seu cargo para asssumir uma posição na própria Microsoft.
 
 c. Existe outra maneira, além do terminal, de trabalhar com o Github?
 Sim, existe o Github Desktop, hoje também algumas IDE's, como por exemplo as da JetBrains, possuem integração com o Github, então é possível trabalhar com o Github por interfaces.
