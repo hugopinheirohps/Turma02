@@ -1,0 +1,8 @@
+A: Quem inventou o Git e por quê?
+O Git foi criado por Linus Torvalds, porque quando ele estava trabalhando no desenvolvimento do linux não existia um controlador de versões bom o suficiente para trabalhar em grandes projetos.
+
+B: Quem atualmente é o dono do Github e por quê?
+Atualmente o Github é da Microsoft, porque eles queriam mudar a imagem da empresa no mundo Open Source 
+
+C: Existe outra maneira, além do terminal, de trabalhar com o Github?
+Sim, o mais usado é o GitHub Desktop. 
