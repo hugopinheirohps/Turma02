@@ -1,0 +1,13 @@
+Comandos do Git:
+
+- git init: Inicializa um novo repositorio.
+- git status: Verifica estado dos arquivos e pastas.
+- git add . : Adiciona todas as alterações dos arquivos/pastas.
+- git commit -m "Nome_do_Commit": Cria um "commit", ou seja, uma nova versão na linha do tempo.
+- git rm "Nome_do_Arquivo": Remove um arquivo.
+- git log: Exibe o histórico das commits.
+- git clone: Clona um repositorio remoto ao repositorio local.
+- git push origin "Nome_da_Branch": Adiciona os commits ao repositorio remoto.
+- git pull: Comando para obter as atualizações do repositorio.
+- git branch "Nome_da_Branch": Cria uma nova Branch.
+- git checkout "Nome_da_Branch": Altera de Branch.
