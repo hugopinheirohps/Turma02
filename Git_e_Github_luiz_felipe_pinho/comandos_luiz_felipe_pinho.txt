@@ -1,0 +1,28 @@
+inicializa um repositório git
+git init 
+
+
+Adiciona os arquivos/pastas para área de staged 
+git add 
+
+
+Cria um "checkpoint" do código 
+git commit -m "mensagem" 
+
+Altera o nome da branch para main
+git branch -M main
+
+Adiciona um repositório remoto
+git remote add origin "link do repositório" 
+
+Empurra as alterações feitas em determinada branch para o servidor remoto
+git push origin main
+
+Baixa e faz o merge com os arquivos do servidor remoto 
+git pull origin main
+
+cria uma nova branch e altera para ela 
+git checkout -b nomedabranch
+
+Apaga uma branch local
+git branch -D nomedabranch
