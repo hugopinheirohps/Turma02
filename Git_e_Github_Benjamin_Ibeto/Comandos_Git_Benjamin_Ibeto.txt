@@ -1,0 +1,10 @@
+
+
+git init = usado para criar os arquivos do git em nossa máquina
+git add . = usado para adicionar todos os alterações que fizemos até o presente momento 
+git commit -m "nome do commit" = adicionar um ponto na linha do tempo do projeto.
+git branch = criando uma nova branch 
+git remote -v = mostra o repositório remoto que o arquivo será direcionado
+git checkout = troca de branch
+git merge = junta as versões salvas entre as branches
+git clone = clona o repositorio
