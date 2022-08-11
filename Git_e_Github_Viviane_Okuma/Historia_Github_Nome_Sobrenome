@@ -1,0 +1,37 @@
+a. Quem inventou o sistema de controle de versÃ£o Git e por quê? 
+
+O Git é um controle de versão distribuído e gerenciador de códigos fonte mais popular do mundo. Foi desenvolvido inicialmente pelo criador do Kernel do Linux, o famoso Linus Torvalds em meados de 2005.
+Tudo começou quando houve um rompimento da relação entre a comunidade que desenvolvia o Kernel do Linux e a BitKeeper. Bitkeeper é um sistema de controle de versão distribuído lançado sobre a licença Apache 2.0, e é um software proprietário.
+Nesse rompimento houve também a invalidação do insento de pagamento da ferramenta e o BitKeeper passou a ser uma ferramanta paga para Linus e sua turma.
+A revogação do inseto de pagamento e o rompimento da relação com a BitKeeper, levou Linus Torvalds a desenvolver seu próprio controle de versão, baseado nas experiências de uso da BetKeeper, visando obter uma melhor performance dentre todos os sistemas de controle de versão da época.
+Então, em 2005 surge o controle de versão mais utilizando no mundo atualmente, o Git. O significado de Git segundo o próprio Linus, é uma gíria britânica para cabeça dura.
+"Eu sou um desgraçado egocêntrico, então batizo todos os meus projetos com meu nome. Primeiro Linux, agora Git."
+-Linus Torvalds
+Linus tinha algumas metas para o seu novo sistema de controle de versão, essas metas eram as seguintes?:?
+Velocidade
+Distribuído
+Capaz de lidar com projetos grandes de forma eficiente
+Suporte robusto a desenvolvimento não-linear
+
+Desde o nascimento do Git, o mesmo possui essas e outras qualidades. É um sistema extremamente rápido e muito eficiente em grandes projetos, o mesmo continua amadurecendo e evoluindo até os dias de hoje, graças a comunidade que colabora todos os dias para o seu crescimento, pois o Git é um sistema sobre a licença GNU GLPv2, o que significa ser um sistema grátis e de código fonte aberto, do qual, qualquer pessoa pode alterar, implementar e distribuir sobre a mesma licença.
+fonte: https://medium.com/@dyhalmeida/breve-hist%C3%B3ria-do-git-o-controle-de-vers%C3%A3o-mais-adotado-pelos-desenvolvedores-do-mundo-inteiro-c82466b50c02
+
+Desde o nascimento do Git, o mesmo possui essas e outras qualidades. É um sistema extremamente rápido e muito eficiente em grandes projetos, o mesmo continua amadurecendo e evoluindo até os dias de hoje, graças a comunidade que colabora todos os dias para o seu crescimento, pois o Git é um sistema sobre a licença GNU GLPv2, o que significa ser um sistema grátis e de código fonte aberto, do qual, qualquer pessoa pode alterar, implementar e distribuir sobre a mesma licença.
+fonte: https://medium.com/@dyhalmeida/breve-hist%C3%B3ria-do-git-o-controle-de-vers%C3%A3o-mais-adotado-pelos-desenvolvedores-do-mundo-inteiro-c82466b50c02
+
+b. Quem atualmente é o dono do Github e por quê? 
+
+a Microsoft atualmente é a dona do Github
+
+Texto escrito por Mariana Barbosa:
+
+A Microsoft anunciou hoje a compra do GitHub – uma plataforma usada por desenvolvedores para compartilhar códigos de software – um movimento estratégico para ganhar mercado na  computação em nuvem mas que também evidencia o declínio do Windows. A Microsoft está pagando US$ 7,5 bilhões em ações para adquirir o GitHub, uma plataforma crucial para empreendedores no ecossistema mundial de software. Startups e grandes empresas – incluindo a própria Microsoft, o Google e a Apple – usam os serviços do GitHub para desenvolver, de forma colaborativa, códigos de software. Códigos de programação de websites e apps para smartphones ficam depositados na plataforma do GitHub. São mais de 27 milhões de desenvolvedores trabalhando em mais de 85 milhões de macroprojetos na plataforma. O anúncio provocou abalos na comunidade mais radical de desenvolvedores de software livre. Segundo sites especializados, o GitLab, um dos principais concorrentes do GitHub, viu seu tráfego disparar, com desenvolvedores migrando projetos após a notícia da compra pela Microsoft. Cerca de 50 mil projetos migraram para o GitLab desde ontem, quando começaram os rumores de uma venda (veja imagem abaixo). Mas a Microsoft só deve ficar realmente preocupada se alguma grande empresa resolver encerrar sua conta, o que ainda não aconteceu. O principal temor para empresas e desenvolvedores é que agora a Microsoft terá acesso irrestrito a milhões de projetos privados hospedados no serviço pago do GitHub. A empresa fundada por Bill Gates se tornou hegemônica com software proprietário – e porque conseguia atrair desenvolvedores a criar programas fechados para o Windows, então um produto desejado pelos consumidores e fabricantes de hardware. Com essa estratégia, Microsoft virou o inimigo No. 1 da comunidade de software livre, que tinha seu próprio sistema operacional aberto, o Linux. Steve Ballmer, que comandou a empresa até 2014, costumava dizer que o software livre era ‘um câncer’ porque ameaça os direitos de propriedade intelectual. Mas desde então, o sistema operacional virou commodity, e o negócio da vez agora se chama infraestrutura de computação em nuvem, um mercado dominado pela Amazon Web Services (AWS). Hoje a Amazon conta com desenvolvedores que criam produtos e serviços para os usuários da AWS. A Microsoft está correndo atrás, e espera atrair os melhores desenvolvedores para fazer o mesmo com a Azure, seu negócio de computação em nuvem. Para quem tem acompanhado a Microsoft nos últimos quatro anos, a aquisição orquestrada pelo CEO Satya Nadella não chega a surpreender. Nadella vem da comunidade de software livre, e desde então vem tentando restaurar as relações com os desenvolvedores, sejam eles atuantes no ambiente Microsoft ou não, oferecendo ferramentas e serviços para o desenvolvimento de software. Apesar das críticas, na comunidade de desenvolvedores houve quem ficasse aliviado pelo fato de a aquisição ter sido feita pela Microsoft. “Já imaginou se tivesse sido o Facebook”, brincou um deles no Twitter. “A gente iria abrir o GitHub hoje e ia estar cheio de Stories.”
+
+Leia mais em https://braziljournal.com/microsoft-compra-github-espantando-alguns-usuarios/ .
+
+
+ 
+c. Existe outra maneira, além do terminal, de trabalhar com o Github? 
+
+A implementação padrão do Git é um programa CLI (Command Line Interface), ou seja, é usada no terminal. Se você não se sentir confortável com o terminal, você pode usar alguma interface gráfica como GitKraken, Github Desktop ou Smart Git.
+Ou o Github desktop
