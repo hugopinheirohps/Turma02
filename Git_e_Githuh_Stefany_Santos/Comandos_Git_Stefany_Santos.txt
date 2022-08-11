@@ -1,0 +1,8 @@
+git clone > clona um repositorio existente
+git add . > adicionar os arquivos ao repositorio local
+git commit > nomeando os salvando os arquivos localmente
+git push > subir os arquivos para o repositorio
+git pull > baixa todas atualizações do repositorio
+git merge > junta as alterações de branch diferentes
+git branch > cria uma nova branch
+git checkout > alterar a branch
