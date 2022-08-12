@@ -1,0 +1,18 @@
+Criar um repositório local: -Git init 
+
+adicionar arquivos ao repositório: -add .
+
+Adicionar um commit com comentário: -gir commit -m 
+
+Enviar alterações para repositório remoto: push origin nome-da-branch
+
+clonar repositório: -git clone URL-do-repositório 
+
+Atualizar os arquivos do repositório: -git pull origin nome-da-branch
+
+Verificar o status dos arquivos: -git status 
+
+Ver informações sobre o repositório: -git remote -v 
+
+Visualizar o histórico de alterações: -git log
+
