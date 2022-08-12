@@ -1,0 +1,38 @@
+
+$mkdir Criar um novo diretório ou pasta
+
+$nano Criar e/ou edita o arquivo e seu conteúdo 
+
+$rm Excluir um arquivo
+
+$rmdir Excluir uma pasta vazia 
+
+$clear Limpar a tela do terminal 
+
+$cd Raiz do projeto 
+
+$pwd Exibe a pasta atualmente sendo trabalhada 
+
+$cd ../ Suba um nível de pasta 
+
+$git init Inicializa repositório 
+
+$git clone Clona um repositório 
+
+$git checkout <arquivo> Descarta mudanças em algum arquivo específico 
+
+$git status Verifica se alguma mudança foi feita no branch atual 
+
+$git add Adiciona arquivos ao versionamento 
+
+$git commit Salva as alterações de código 
+
+$git branch Listagem de branches 
+
+$git checkout <branch> Altera o branch 
+
+$git pull Recebe atualizações do repositório remoto 
+
+$git push Envia atualizações para o repositório remoto 
+
+
