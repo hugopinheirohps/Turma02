@@ -1,0 +1,9 @@
+PRINCIPAIS COMANDOS GIT
+ls- Listar arquivos no diretório ou pasta 
+mkdir - Cria uma Pasta 
+touch - Criar um novo arquivo 
+nano - Cria e/ou edita o arquivo e seu conteúdo
+pwd - Exibe a pasta atualmente sendo trabalhada 
+ rm -r - Excluir uma pasta e  seu conteúdo 
+mv - move conteúdos
+cd .. - Suba um nível de pasta 
