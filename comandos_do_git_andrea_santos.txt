@@ -1,0 +1,38 @@
+
+Alguns comandos utizados para usarmos o git:
+
+Para criar um repositório local: 
+"git init"
+
+Configurando o nome do usuário, no projeto atual: 
+"git config user.name"
+
+Configurando o email do usuário, no projeto atual: 
+"git config user.email"
+
+Para vincular ao repositório remoto: 
+"git add origin https://... url do repositório"
+
+Clonando um repositório:
+"git clone url do repositório, necessário"
+
+Verificar o status dos arquivos: 
+"git status" 
+
+Adicionar um commit com comentário: 
+"git commit -m"
+
+Adicionar arquivos novos/alterados ao repositório: 
+"git add ."
+
+Enviando as alterações para repositório remoto: 
+"git push origin nome-da-branch"
+
+Para atualizar os arquivos alterados do repositório remoto:
+"git pull" 
+
+Verificar as informações sobre o repositório: 
+"git remote -v"
+
+Conseguimos visualizar o histórico de alterações: 
+"git log"
