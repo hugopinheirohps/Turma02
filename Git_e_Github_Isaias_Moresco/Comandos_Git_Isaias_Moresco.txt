@@ -1,0 +1,51 @@
+$ git --version
+    Verifica qual é a versão do git atualmente instalada
+
+$ git init
+    Inicializa um repositório local
+
+$ git config --global user.name "Seu Nome"
+    Configura o seu nome de usuário no Git
+
+$ git config --global user.email "seu@email.com"
+    Configura o seu endereço de email no Git
+
+$ git add "nome_do_arquivo"
+    adiciona o arquivo à fila para ser "commitado"
+
+$ git add .
+    Adiciona todos os arquivos à fila para ser "commitados"
+
+$ git commit -m "Seu_commit"
+    Cria um instantâneo do momento atual dos arquivos e define um comentário.
+
+$ git status
+    Verifica o status atual dos arquivos monitorados pelo Git
+
+$ git remote add origin https://github.com/user/Repositorio_remoto
+    Aponta um repositório local à um repositório remoto
+
+$ git push origin master
+    Envia os arquivos modificados ao repositório remoto
+
+$ git pull origin master
+    Baixa os arquivos modificados do repositório remoto
+
+$ git pull origin master
+    Baixa os arquivos de um repositório remoto para um repositório local
+
+$ git clone  https://github.com/user/Repositorio_remoto
+    Faz uma cópia local de um repositório remoto
+
+$ git rm --cached "nome_arquivo"
+    Remove o arquivo da área de stage (remove antes do primeiro commit)
+
+$ git reset HEAD "nome_arquivo"
+    Remove o arquivo da área de stage
+
+$ git reset HEAD .
+    Remove todos os arquivos da área de stage
+
+$ git log
+    Exibe o histórico do Git
+
