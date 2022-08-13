@@ -1,0 +1,11 @@
+$ pwd - Exibe a pasta atualmente sendo trabalhada
+$ mkdir - Cria um novo diretório ou pasta
+$ touch - Criar um novo arquivo
+$ rm - Excluir um arquivo
+$ rmdir - Excluir uma pasta vazia
+$ rm -r - Excluir uma pasta e seu conteúdo
+$ mv - Renomear arquivos, Renomear pasta1 como pasta2, Move o conteúdo de pasta1 para pasta2
+$ clear - Limpar a tela do terminal
+$ cd - Suba um nível de pasta, Mudar pasta, Mudar para uma pasta específica
+$ git clone - Clonar um repositor
+$ git init - Criar um novo repositório local
