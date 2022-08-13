@@ -1,0 +1,6 @@
+a. Quem iventou o sistema de controle de versão Git e por quê?
+O Git foi criado pelo Linus Torvalds após ficar insatisfeito com a utilização do BitKeeper, sistema de versionamento utilizado por ele e sua equipe na época do desenvolvimento do sistema Linux.
+b. Quem atualmente é o dono do Github e por quê?
+O Github foi comprado pela Microsotft em 2018 por US$ 7,5 Bilhões e o motivo da compra se da porque a Microsotft (que era uma das companhias que mais colaborava/colabora com o Github) deseja concentrar seus esforços nas quatro principais frentes que Satya Nadella considera cruciais: Nuvem, IA, Serviços (incluso Windows, Office e Xbox) e mercado corporativo.
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+Sim, pelo Github Desktop.
