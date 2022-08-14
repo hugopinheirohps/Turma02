@@ -1,0 +1,23 @@
+a. Quem inventou o sistema de controle de versão Git e por quê?
+   
+   Ele foi criado por Linus Torvalds, que é mais conhecido por outra criação, o Linux.
+
+   Linus desenvolveu o Git após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper, o sistema de controle de versão que era utilizado por ele e pela equipe que desenvolvia o Linux.
+
+   Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux. E foi aí que surgiu o Git.
+
+b. Quem atualmente é o dono do Github e por quê?
+
+   A Microsoft é a atual dona do GitHub.
+
+   O serviço estava muito mal das pernas, acumulando um prejuízo de US$ 66 milhões (paywall) em apenas três trimestres de 2016, em meio a esforços de expansão.
+
+   Manter a maior plataforma de código aberto do mundo é uma tarefa complexa e cara, e o GitHub tinha duas alternativas para conter o sangramento: abrir o capital ou ser comprado.
+
+   Do lado da Microsoft, que já era a companhia privada que mais colabora com o GitHub a compra é essencial para concentrar seus esforços nas quatro principais frentes que Nadella considera cruciais: Nuvem, IA, Serviços (incluso Windows, Office e Xbox) e mercado corporativo. Desde que Steve Ballmer deixou o comando, sua visão de que o Linux era um câncer e um antro de comunistas foi completamente abandonada em prol de fortalecer a relação entre a Microsoft e os desenvolvedores de código aberto.
+
+   Nadella sabe que empresas não podem ficar de birra, a meta é sempre gerar lucro e o melhor a fazer é reconquistar a confiança dos desenvolvedores Open Source, oferecendo plataformas e ferramentas robustas. A compra do GitHub é uma jogada de longo prazo, o serviço só tem a ganhar e isso pode e irá se converter em mais desenvolvedores criando produtos para Redmond.
+
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+
+   Sim. Existe a possibilidade de usarmos o GitHub Desktop e também o Visual Studio Code, alem de outras IDE's existentes no mercado!
