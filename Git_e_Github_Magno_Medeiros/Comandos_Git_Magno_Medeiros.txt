@@ -1,0 +1,48 @@
+Defina o nome de usuário:
+	git config --global user.name "nome do usuario"
+	git config --local user.name "nome do usuario"
+	git config user.name "nome do usuario"
+
+Defina o e-mail:
+	git config --global user.email email@email.com
+	git config --local user.email email@email.com
+	git config user.email email@email.com
+
+Clona um repositório remoto para uma pasta local:
+	git clone "URL do repositório"
+
+Crie um novo repositório:
+	git init
+
+Verifique o status dos arquivos/diretórios:
+	git status
+
+Adicione um arquivo:
+	git add nome_arquivo_diretorio (arquivo específico)
+	git add . / git add --all (todos os arquivos)
+
+Confirme um arquivo/diretório:
+	git commit nome_arquivo -m "enviar mensagem"
+	git commit -m "enviar mensagem" (Todos os arquivos)
+
+Remova um arquivo ou diretório:
+	git rm arquivo
+	git rm -r diretorio (remove o diretório e os arquivos que ele contém)
+
+Veja o histórico de atividades:
+	git log (mostra o histórico)
+	git log -- <histórico do arquivo> (mostra o histórico de um arquivo específico)
+	git log --author=usuario (mostra o histórico de um determinado usuário)
+
+Cria uma nova branch remota:
+	git branch nova_branch
+
+Mudar para uma branch existente:
+	git checkout nova_branch
+
+Envia as alterações feitas no repositório local para o repositório remoto:
+	git push origin nova_branch
+
+Atualiza o repositório local conforme o repositório remoto:
+	git pull origin nova_branch
+	
