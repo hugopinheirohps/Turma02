@@ -1,0 +1,39 @@
+Criar:
+
+Clonar um repositório existente
+❏ $ git clone ssh://usuario@domain.com/repo.git
+
+Criar um novo repositório local
+❏ $ git init
+
+
+Ajuda:
+
+❏ Git help
+
+
+Remover:
+
+❏ git rm arquivo
+❏ git rm -r diretorio (remove o diretório e os arquivos que ele contém)
+
+
+Histórico:
+
+❏ git log (mostra o histórico)
+❏ git log -- <histórico do arquivo> (mostra o histórico de um arquivo
+especíﬁco)
+❏ git log --author=usuario (mostra o histórico de um determinado usuário)
+
+Branchs:
+
+❏ git branch nova_branch_nome (cria uma nova branch)
+❏ git checkout nova_branch_nome (mudar para uma branch existente) - Neste
+caso, o ponteiro HEAD principal está apontando para a branch
+nova_branch_nome.
+❏ git checkout -b nova_branch_nome (crie uma nova branch e aponte para ela)
+❏ git checkout main (volta para a branch principal main)
+❏ git merge nova_branch_nome (resolve a união (merge) entre as branches) - Para
+mesclar, você deve estar na branch que deve receber as alterações.
+❏ git branch -d nova_branch_nome (apagando uma branch)
+❏ git branch (lista branches)
