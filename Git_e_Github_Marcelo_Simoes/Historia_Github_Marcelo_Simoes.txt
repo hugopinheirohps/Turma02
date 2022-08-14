@@ -1,0 +1,10 @@
+a. O criador do Github é Linus Trovalds, o mesmo criador do sistema operacional Linux.
+O Git foi construido para que Linus pudesse fazer o controle de versão do Linux,
+após uma mudança no sistema que ele utilizava anteriormente para controlar as alterações do Linux.
+
+
+b. A atual dona do Github é a Microsoft, que comprou o sistema de versionamento de código em busca da continuidade
+da sua mudança de diretriz, afim de incentivar a criação de softwares livres, com código aberto e hospedagem em nuvem.
+
+c. Sim, além do terminal podemos utilizar o sistema diretamente pelo site do Github, onde é possivel além de verificar e controlar
+as alterações dos códigos, mas tambem altera-los diretamente na plataforma.
