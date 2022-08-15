@@ -1,0 +1,60 @@
+Principais Comandos Git:
+
+- Verificar a instalação do Git
+  git --version
+
+- Configuração do nome de usuário e email
+  Global:
+  git config --global user.name <"nome_do_usuário">
+  git config --global user.email <"email_do_usuário">
+
+  Local:
+  git config user.name <"nome_do_usuário">
+  git config user.email <"email_do_usuário">
+
+  Verificar a identidade:
+  git config user.name
+  git config user.email
+
+- Inicializar um repositório
+  git init
+
+- Conectar o repositório local ao remoto
+  git remote add origin <url_do_repositório>
+
+- Verificar a conexão com o repositório remoto
+  git remote -v
+
+- Clonar um repositório
+  git clone <url_do_repositório>
+
+- Verificar o estado dos nossos arquivos
+  git status
+
+- Adicionar arquivos em específico
+  git add <nome_do_arquivo.extensão>
+
+- Adicionar todos os arquivos
+  git add .
+
+- Salvar um histórico
+  git commit -m <"mensagem">
+
+- Enviar os arquivos para o repositório remoto
+  git push origin main
+
+- Atualizar os arquivos de um repositório local
+  git pull origin main
+
+- Criar branch
+  git branch <nome_da_branch>
+
+- Consultar a branch atual
+  git branch
+
+- Mudar de branch
+  git checkout <nome_da_branch>
+
+- Ver o histórico de commits
+  git log
+
