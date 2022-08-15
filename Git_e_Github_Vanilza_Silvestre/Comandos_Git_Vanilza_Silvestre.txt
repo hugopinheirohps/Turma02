@@ -1,0 +1,4 @@
+Principais comandos usados no Git
+
+Criar um novo repositório
+$ git init
