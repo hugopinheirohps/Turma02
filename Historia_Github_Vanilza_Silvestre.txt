@@ -1,0 +1,8 @@
+a. O sistema de controle de versão GIT foi inventando por Linus Torvalds, o mesmo criador do Linux. Ele criou o GIT porque após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper, o sistema de controle de versão que era utilizado por ele e pela equipe que desenvolvia o Linux.
+Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux.
+
+
+b. Atualmente o dono do Github é a Microsoft. A compra foi realizada porque a Microsoft pretendia concentrar seus esforços em quatro principais frentes: Nuvem, IA, Serviços (incluso Windows, Office e Xbox) e mercado corporativo.
+
+
+c. Sim. Pelo próprio Github podemos criar repositórios para novos projetos independentemente do terminal.
